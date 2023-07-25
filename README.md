@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **heropista@gmail.com**
 
-- ⚡ Fun fact **I really love to learn RegEx.**
+- ⚡ Fun fact **You got RegEx'd!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
