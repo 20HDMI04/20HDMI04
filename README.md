@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=20hdmi04&show_icons=true&locale=en&layout=compact" alt="20hdmi04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=20hdmi04&show_icons=true&locale=en" alt="20hdmi04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20hdmi04&" alt="20hdmi04" /></p>
