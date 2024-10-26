@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20hdmi04&label=Profile%20views&color=0e75b6&style=flat" alt="20hdmi04" /> </p>
 
-- 🌱 I’m currently learning **Angular JS, Obsidian, RegEx at an advanced lvl.**
+- 🌱 I’m currently learning **Nginx, Obsidian, Fastify and other backend tools**
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+- 👨‍💻 Current project is available at [Studo](https://github.com/20HDMI04/Studo)
 
 - 💬 Ask me about **RegEx**
 
