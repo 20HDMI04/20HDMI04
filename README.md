@@ -1,4 +1,4 @@
-![Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<img src="./20HDMI04-profile-banner.svg" width=100%>
 # Hi there! 👋 I'm János Balogh (HDMI)
 
 I am a **Full-Stack Developer** passionate about crafting seamless digital experiences. As a graduating technical IT student, I focus on building robust, scalable applications while bridging the gap between clean code and intuitive UI/UX design.
