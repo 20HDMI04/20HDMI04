@@ -8,7 +8,7 @@ I am a **Full-Stack Developer** passionate about crafting seamless digital exper
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=20HDMI04&theme=github_dark)
 ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=20HDMI04&theme=github_dark)
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=20HDMI04&theme=github_dark)
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=20HDMI04&theme=github_dark&utcOffset=8)
+![Github Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=20HDMI04&theme=github_dark&utcOffset=8)
 
 ---
 
